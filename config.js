@@ -1,0 +1,4 @@
+{
+    key:abc
+}
+module.exports
